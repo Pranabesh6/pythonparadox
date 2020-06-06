@@ -13,14 +13,14 @@ class employee:
          self.com.show()
 
 
-class company:
+    class company:
 
-    def __init__(self):
-        self.com="wipro"
-        self.des="HR"
+           def __init__(self):
+                self.com="wipro"
+                self.des="HR"
 
-    def show(self):
-         print(self.cor,self.des)
+           def show(self):
+               print(self.cor,self.des)
 
 
 
